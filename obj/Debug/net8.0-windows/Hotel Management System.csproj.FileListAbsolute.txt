@@ -1,0 +1,33 @@
+C:\Users\hp\source\repos\Hotel Management System\bin\Debug\net8.0-windows\Hotel Management System.exe
+C:\Users\hp\source\repos\Hotel Management System\bin\Debug\net8.0-windows\Hotel Management System.deps.json
+C:\Users\hp\source\repos\Hotel Management System\bin\Debug\net8.0-windows\Hotel Management System.runtimeconfig.json
+C:\Users\hp\source\repos\Hotel Management System\bin\Debug\net8.0-windows\Hotel Management System.dll
+C:\Users\hp\source\repos\Hotel Management System\bin\Debug\net8.0-windows\Hotel Management System.pdb
+C:\Users\hp\source\repos\Hotel Management System\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\hp\source\repos\Hotel Management System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hp\source\repos\Hotel Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hp\source\repos\Hotel Management System\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hp\source\repos\Hotel Management System\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\source\repos\Hotel Management System\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\source\repos\Hotel Management System\obj\Debug\net8.0-windows\Hotel Management System.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Hotel Management System\obj\Debug\net8.0-windows\Hotel_Management_System.City.resources
+C:\Users\hp\source\repos\Hotel Management System\obj\Debug\net8.0-windows\Hotel_Management_System.Customer.resources
+C:\Users\hp\source\repos\Hotel Management System\obj\Debug\net8.0-windows\Hotel_Management_System.District.resources
+C:\Users\hp\source\repos\Hotel Management System\obj\Debug\net8.0-windows\Hotel_Management_System.FormC.resources
+C:\Users\hp\source\repos\Hotel Management System\obj\Debug\net8.0-windows\Hotel_Management_System.FormHome.resources
+C:\Users\hp\source\repos\Hotel Management System\obj\Debug\net8.0-windows\Hotel_Management_System.Form1.resources
+C:\Users\hp\source\repos\Hotel Management System\obj\Debug\net8.0-windows\Hotel_Management_System.Properties.Resources.resources
+C:\Users\hp\source\repos\Hotel Management System\obj\Debug\net8.0-windows\Hotel_Management_System.State.resources
+C:\Users\hp\source\repos\Hotel Management System\obj\Debug\net8.0-windows\Hotel Management System.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Hotel Management System\obj\Debug\net8.0-windows\Hotel Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Hotel Management System\obj\Debug\net8.0-windows\Hotel Management System.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Hotel Management System\obj\Debug\net8.0-windows\Hotel Management System.AssemblyInfo.cs
+C:\Users\hp\source\repos\Hotel Management System\obj\Debug\net8.0-windows\Hotel Management System.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Hotel Management System\obj\Debug\net8.0-windows\Hotel Ma.662265F2.Up2Date
+C:\Users\hp\source\repos\Hotel Management System\obj\Debug\net8.0-windows\Hotel Management System.dll
+C:\Users\hp\source\repos\Hotel Management System\obj\Debug\net8.0-windows\refint\Hotel Management System.dll
+C:\Users\hp\source\repos\Hotel Management System\obj\Debug\net8.0-windows\Hotel Management System.pdb
+C:\Users\hp\source\repos\Hotel Management System\obj\Debug\net8.0-windows\Hotel Management System.genruntimeconfig.cache
+C:\Users\hp\source\repos\Hotel Management System\obj\Debug\net8.0-windows\ref\Hotel Management System.dll
+C:\Users\hp\source\repos\Hotel Management System\obj\Debug\net8.0-windows\Hotel_Management_System.Employee.resources
+C:\Users\hp\source\repos\Hotel Management System\obj\Debug\net8.0-windows\Hotel_Management_System.Designation.resources
